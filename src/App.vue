@@ -8,7 +8,7 @@
 <v-btn
 class="mr-10 primary"
 text
-href="http://10.6.236.32/">
+href="http://salesapp.hblasset.com/">
 <span>Dashboard</span>
 </v-btn>
 </v-app-bar>
